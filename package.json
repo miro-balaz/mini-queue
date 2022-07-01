@@ -1,6 +1,6 @@
 {
-  "name": "mini-queue",
-  "version": "0.0.14",
+  "name": "mini-queue2",
+  "version": "0.0.15",
   "description": "Job queue",
   "main": "./index.js",
   "engines": {
@@ -34,16 +34,16 @@
   "keywords": [
     "job,queue"
   ],
-  "author": "Alexander <alykoshin@gmail.com>",
+  "author": "Alexander <alykoshin@gmail.com>, Miroslav Balaz <gpslayer@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alykoshin/mini-queue.git"
+    "url": "https://github.com/mbalaz/mini-queue.git"
   },
   "bugs": {
-    "url": "https://github.com/alykoshin/mini-queue/issues"
+    "url": "https://github.com/mbalaz/mini-queue/issues"
   },
-  "homepage": "https://github.com/alykoshin/mini-queue",
+  "homepage": "https://github.com/mbalaz/mini-queue",
   "dependencies": {
     "debug": "^3.1.0"
   },
